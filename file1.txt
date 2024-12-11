@@ -1,0 +1,5 @@
+total 2
+-rw-r--r-- 1 79673 197609 53 Dec 12 00:00 README.md
+-rw-r--r-- 1 79673 197609  0 Dec 12 00:16 file1.txt
+-rw-r--r-- 1 79673 197609  0 Dec 12 00:00 hello.txt
+-rw-r--r-- 1 79673 197609  4 Dec 12 00:13 hi.txt
